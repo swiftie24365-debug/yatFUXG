@@ -1,0 +1,6 @@
+{
+  "name": "Pâtisserie Ghanem",
+  "description": "Haute pâtisserie artisanale, douceurs fines tunisiennes et coffrets de célébration d'exception.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
